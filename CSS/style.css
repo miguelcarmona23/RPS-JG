@@ -10,7 +10,7 @@ body {
     font-family: 'Barlow Semi Condensed', sans-serif;
     font-weight: 700;
     background-image: radial-gradient(#1f3756, #141539);
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     height: 100%;
     margin: 0;
 }
